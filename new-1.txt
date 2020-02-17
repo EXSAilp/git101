@@ -1,2 +1,2 @@
-edit file new-1.txt by user2
+edit file new-1.txt by user1
  save
